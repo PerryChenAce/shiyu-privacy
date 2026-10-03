@@ -1,6 +1,6 @@
 # 拾语 · 成语学习 Android APP
 
-「千里之行始于拾语」——国风深色主题的成语学习 Android 应用，与微信小程序 [Idiom-Dictionary-Mini-Program](https://github.com/PerryChenAce/Idiom-Dictionary-Mini-Program) 功能对齐（v1.0.1）。
+「朝花拾语」——国风深色主题的成语学习 Android 应用，与微信小程序 [Idiom-Dictionary-Mini-Program](https://github.com/PerryChenAce/Idiom-Dictionary-Mini-Program) 功能对齐（v1.0.1）。
 
 **最新版下载**：[Releases](https://github.com/PerryChenAce/Idiom-Dictionary-APK/releases)（Android 8.0+，安装时需允许「安装未知来源应用」）
 
