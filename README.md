@@ -1,4 +1,4 @@
-# 拾语 · 成语学习 Android APP
+# 朝花拾语 · 成语学习 Android APP
 
 「朝花拾语」——国风深色主题的成语学习 Android 应用，与微信小程序 [Idiom-Dictionary-Mini-Program](https://github.com/PerryChenAce/Idiom-Dictionary-Mini-Program) 功能对齐（v1.0.1）。
 
